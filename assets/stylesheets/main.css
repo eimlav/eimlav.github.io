@@ -262,7 +262,7 @@ a:hover {
   width: calc(33% - 4px);
 }
 
-@media (max-width: 960px) {
+@media (max-device-width: 960px) {
   .side-ad {
     display: none;
   }
