@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.nav-text-mobile {
+  display: none;
+}
+
+@media (max-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+
+    .nav-text-mobile {
+      display: inline-block;
+    }
+
+    .nav-text-mobile p {
+      text-transform: uppercase;
+      font-size: 24px;
+      font-weight: 300;
+    }
+}
