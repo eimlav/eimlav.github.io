@@ -28,11 +28,12 @@ body {
       font-weight: 300;
     }
 
-    .navbar-header button[aria-expanded="true"] {
+    #mobile-nav-toggle[aria-expanded="true"] {
       box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
     }
 
-    .navbar-header button[aria-expanded="false"] {
+    #mobile-nav-toggle[aria-expanded="false"] {
+      background-color: #e7e7e7;
       box-shadow: none;
     }
 }
