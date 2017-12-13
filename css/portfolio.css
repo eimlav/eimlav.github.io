@@ -1,0 +1,226 @@
+/* https://coolors.co/424b5b-1b998b-90ccce-0e7c7b-86bbbd */
+body {
+  background-color: #86BBBD;
+}
+
+#row-top {
+  margin-top: 80px;
+}
+
+h1, h2 {
+  font-family: 'Fjalla One';
+  color: #0a5e5c;
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: 1px;
+}
+
+p {
+  font-family: 'Quicksand';
+  color: #0d8484;
+  font-size: 1.3em;
+}
+
+hr {
+  border-color: #86BBBD;
+}
+
+.text-cursive {
+  font-family: 'Lobster';
+}
+
+.text-red {
+  color: #
+}
+
+.content-row {
+  background-color: #90ccce;
+  color: #1B998B;
+  margin-top: 10px;
+  padding-bottom:10px;
+  padding-left:5px;
+  padding-right:5px;
+}
+
+#about-img {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #0a5e5c;
+  border-radius: 3%;
+  height: 250px;
+  width: auto;
+  margin: 0 auto;
+}
+
+.language-item {
+  border-radius: 10%;
+  color: #424B4A;
+  padding: 9px 6px 6px 6px;
+  margin: 1px 1px 1px 1px;
+}
+
+.language-item:hover {
+  box-shadow: 1px 1px 2px #888888;
+  border-radius: 20%;
+  color: #93ebe1;
+  text-shadow: 0px 1px #424B4A;
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+  background-color: #1fad9d;
+}
+
+.language-item i {
+  font-size: 5em;
+}
+
+.language-item p {
+  font-size: 0.8em;
+  font-weight: 900;
+  font-family: 'Lato';
+  color: #424B5B;
+}
+
+.language-item:hover p {
+  color: #93ebe1;
+  text-shadow: none;
+}
+
+.project-item {
+  padding: 6px 6px 6px 6px;
+}
+
+.project-item:hover {
+  box-shadow: 1px 1px 2px #888888;
+  border-radius: 2%;
+
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+  background-color: #1fad9d;
+}
+
+.project-item:hover div h2{
+  color: #93ebe1;
+}
+
+.project-item:hover div p {
+  color: #93ebe1;
+}
+
+.project-item div img {
+  border-radius:5%;
+  opacity: 0.70;
+}
+
+.project-item:hover div img {
+  opacity: 1.0;
+}
+
+.project-area {
+  padding-top: 10px;
+}
+
+#footer {
+  font-size: 0.8em;
+  padding-top:10px;
+}
+
+.footer-social-links {
+  font-size: 3em;
+  color: #0a5e5c;
+}
+/* Bootstrap Navbar Custom CSS
+by https://work.smarchal.com/twbscolor/ */
+
+.navbar-default {
+  background-color: #424b5b;
+  border-color: #1b998b;
+}
+.navbar-default .navbar-brand {
+  color: #ffffff;
+  font-family: 'Poiret One';
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #ffffff;
+}
+.navbar-default .navbar-text {
+  color: #ffffff;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+  margin-right: 5px;
+  margin-left: 5px;
+  text-align: center;
+  font-weight:bold;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+  border-radius: 15px;
+
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+  background-color: #1b998b;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #1b998b;
+  border-radius: 15px;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #ffffff;
+  background-color: #1b998b;
+}
+.navbar-default .navbar-toggle {
+  border-color: #1b998b;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #1b998b;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ffffff;
+}
+.navbar-default .navbar-link {
+  color: #ffffff;
+}
+.navbar-default .navbar-link:hover {
+  color: #ffffff;
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ffffff;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ffffff;
+    background-color: #1b998b;
+  }
+}
+
+.navbar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
