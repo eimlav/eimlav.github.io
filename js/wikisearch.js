@@ -16,6 +16,7 @@ $(document).ready(function() {
         var link = "https://en.wikipedia.org/wiki/" + val.query.search[i].title.replace(/ /g, "_");
         $(".main").append("<hr><a target=\"_blank\" href=\"" + link + "\"><div class=\"result\"><h3 class=\"result-title\">" + val.query.search[i].title + "</h3><p class=\"result-text\">" + val.query.search[i].snippet + "...</p></div></a>");
       }
+      $(".main").append("<h6 class=\"footer text-center\">by el</h6>");
     });
   }
 });
