@@ -57,7 +57,7 @@ a:hover {
 margin:0 ! important;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .sideNav {
         height: auto;
         position: relative;
