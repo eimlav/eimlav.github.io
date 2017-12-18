@@ -5,9 +5,10 @@ body {
 .sideNav {
   background-color: #0D5C63;
   color: #e8fafc;
-  height: 100vh;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  height: 125%;
+  padding: 15px;
+  position: fixed;
+  margin: -20px;
 }
 
 .main {
@@ -52,8 +53,13 @@ a:hover {
   color: #d2f5f9;
 }
 
+.remove-all-margin{
+margin:0 ! important;
+}
+
 @media screen and (max-width: 768px) {
     .sideNav {
         height: auto;
+        position:relative;
     }
 }
