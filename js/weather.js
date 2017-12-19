@@ -1,6 +1,7 @@
 $(document).ready(function() {
   getLocation();
 
+  // Sends asynchronous http request
   function httpGetAsync(theUrl, callback)
   {
       var xmlHttp = new XMLHttpRequest();
@@ -12,6 +13,7 @@ $(document).ready(function() {
       xmlHttp.send(null);
   }
 
+  // Retrieves users' location
   function getLocation() {
       if (navigator.geolocation) {
           navigator.geolocation.getCurrentPosition(showPosition, showError);
@@ -20,6 +22,7 @@ $(document).ready(function() {
       }
   }
 
+  // Displays users location and appropriate weather data
   function showPosition(position) {
       var jsonInfo = [];
       httpGetAsync("https://fcc-weather-api.glitch.me/api/current?lat=" + position.coords.latitude + "&lon=" + position.coords
@@ -35,6 +38,7 @@ $(document).ready(function() {
       })
   }
 
+  // Displays any error which occurred
   function showError(error) {
     $("#description").html("");
       switch(error.code) {
