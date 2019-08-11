@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://eiby.dev/posts/hello-world/</loc>
+    <loc>https://eiby.dev/posts/hello-world/</loc>
     <lastmod>2019-08-11T15:23:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://eiby.dev/posts/</loc>
-    <lastmod>2019-08-11T15:23:05+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://eiby.dev/</loc>
+    <loc>https://eiby.dev/posts/</loc>
     <lastmod>2019-08-11T15:23:05+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/portfolio/</loc>
+    <loc>https://eiby.dev/</loc>
+    <lastmod>2019-08-11T15:23:05+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/random-quote-machine/</loc>
+    <loc>https://eiby.dev/projects/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/twitch/</loc>
+    <loc>https://eiby.dev/projects/random-quote-machine/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/weather/</loc>
+    <loc>https://eiby.dev/projects/twitch/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/wikisearch/</loc>
+    <loc>https://eiby.dev/projects/weather/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/categories/</loc>
+    <loc>https://eiby.dev/projects/wikisearch/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/projects/</loc>
+    <loc>https://eiby.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://eiby.dev/tags/</loc>
+    <loc>https://eiby.dev/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eiby.dev/tags/</loc>
     <priority>0</priority>
   </url>
   

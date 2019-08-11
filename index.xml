@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eiby.dev</title>
-    <link>http://eiby.dev/</link>
+    <link>https://eiby.dev/</link>
     <description>Recent content on eiby.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 11 Aug 2019 15:23:05 +0100</lastBuildDate>
     
-	<atom:link href="http://eiby.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eiby.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://eiby.dev/posts/hello-world/</link>
+      <link>https://eiby.dev/posts/hello-world/</link>
       <pubDate>Sun, 11 Aug 2019 15:23:05 +0100</pubDate>
       
-      <guid>http://eiby.dev/posts/hello-world/</guid>
+      <guid>https://eiby.dev/posts/hello-world/</guid>
       <description>:D</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://eiby.dev/projects/portfolio/</link>
+      <link>https://eiby.dev/projects/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eiby.dev/projects/portfolio/</guid>
+      <guid>https://eiby.dev/projects/portfolio/</guid>
       <description>el.design   Toggle navigation     el.design  ABOUT PROJECTS     About Me  Hi! I&#39;m el and I am a full time student currently doing a degree in MEng Computer Science. I love food, doggos (not dogs as food though, that&#39;s horrible  ) and computers !
  Languages  Java
    C#
@@ -34,19 +34,19 @@
     
     <item>
       <title></title>
-      <link>http://eiby.dev/projects/random-quote-machine/</link>
+      <link>https://eiby.dev/projects/random-quote-machine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eiby.dev/projects/random-quote-machine/</guid>
+      <guid>https://eiby.dev/projects/random-quote-machine/</guid>
       <description> Random Quote Machine   Welcome to the Random Quote Machine Click below to begin...    New quote  by el         </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://eiby.dev/projects/twitch/</link>
+      <link>https://eiby.dev/projects/twitch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eiby.dev/projects/twitch/</guid>
+      <guid>https://eiby.dev/projects/twitch/</guid>
       <description> twitch     Online Offline All   name
  status
            </description>
@@ -54,19 +54,19 @@
     
     <item>
       <title></title>
-      <link>http://eiby.dev/projects/weather/</link>
+      <link>https://eiby.dev/projects/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eiby.dev/projects/weather/</guid>
+      <guid>https://eiby.dev/projects/weather/</guid>
       <description>        myWeather Finding out the weather now...      by el      </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://eiby.dev/projects/wikisearch/</link>
+      <link>https://eiby.dev/projects/wikisearch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eiby.dev/projects/wikisearch/</guid>
+      <guid>https://eiby.dev/projects/wikisearch/</guid>
       <description>  Random Quote Machine     WikiSearch   WikiSearch Wikipedia Search App    Random Article        </description>
     </item>
     
