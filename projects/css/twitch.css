@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #4b367c;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.status-selector {
+  background-color: #e6ffff;
+  box-shadow: 1px 0px #ccffff;
+}
+
+.status-item {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.status-item:hover {
+  background-color: #ccffff;
+}
+
+.status-item-center {
+  border-right: 1px solid rgba(0,0,0,.1);
+  border-left: 1px solid rgba(0,0,0,.1);
+}
+
+.status-item a {
+  text-decoration: none;
+}
