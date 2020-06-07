@@ -3,54 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eiby.dev/posts/hello-world/</loc>
-    <lastmod>2019-08-11T15:23:05+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/posts/</loc>
-    <lastmod>2019-08-11T15:23:05+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://eiby.dev/about/</loc>
+    <lastmod>2020-06-07T15:32:08+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://eiby.dev/</loc>
-    <lastmod>2019-08-11T15:23:05+01:00</lastmod>
+    <lastmod>2020-06-07T15:32:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eiby.dev/projects/portfolio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/projects/random-quote-machine/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/projects/twitch/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/projects/weather/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/projects/wikisearch/</loc>
-    <priority>0</priority>
+    <loc>https://eiby.dev/privacy/</loc>
+    <lastmod>2020-06-07T15:29:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://eiby.dev/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eiby.dev/projects/</loc>
     <priority>0</priority>
   </url>
   

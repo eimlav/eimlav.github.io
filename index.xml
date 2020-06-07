@@ -6,68 +6,30 @@
     <description>Recent content on eiby.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 11 Aug 2019 15:23:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 15:32:08 +0100</lastBuildDate>
     
 	<atom:link href="https://eiby.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://eiby.dev/posts/hello-world/</link>
-      <pubDate>Sun, 11 Aug 2019 15:23:05 +0100</pubDate>
+      <title>About</title>
+      <link>https://eiby.dev/about/</link>
+      <pubDate>Sun, 07 Jun 2020 15:32:08 +0100</pubDate>
       
-      <guid>https://eiby.dev/posts/hello-world/</guid>
-      <description>:D</description>
+      <guid>https://eiby.dev/about/</guid>
+      <description>Hi. I am a developer various random things in my spare time. You can follow me on twitter for some exciting content (actually it&amp;rsquo;s pretty boring).
+Feel free to check out my games on Google Play Store by searching for &amp;ldquo;eiby.dev&amp;rdquo;. Cheers!</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://eiby.dev/projects/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Privacy Policy</title>
+      <link>https://eiby.dev/privacy/</link>
+      <pubDate>Sun, 07 Jun 2020 15:29:21 +0100</pubDate>
       
-      <guid>https://eiby.dev/projects/portfolio/</guid>
-      <description>el.design   Toggle navigation     el.design  ABOUT PROJECTS     About Me  Hi! I&#39;m el and I am a full time student currently doing a degree in MEng Computer Science. I love food, doggos (not dogs as food though, that&#39;s horrible  ) and computers !
- Languages  Java
-   C#
-   C++</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://eiby.dev/projects/random-quote-machine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiby.dev/projects/random-quote-machine/</guid>
-      <description> Random Quote Machine   Welcome to the Random Quote Machine Click below to begin...    New quote  by el         </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://eiby.dev/projects/twitch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiby.dev/projects/twitch/</guid>
-      <description> twitch     Online Offline All   name
- status
-           </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://eiby.dev/projects/weather/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiby.dev/projects/weather/</guid>
-      <description>        myWeather Finding out the weather now...      by el      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://eiby.dev/projects/wikisearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiby.dev/projects/wikisearch/</guid>
-      <description>  Random Quote Machine     WikiSearch   WikiSearch Wikipedia Search App    Random Article        </description>
+      <guid>https://eiby.dev/privacy/</guid>
+      <description>Thank you for playing an eiby.dev game. Our games are built as Ad Supported apps. This SERVICE is provided by Eimhin Laverty at no cost and is intended for use as is.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     
   </channel>
